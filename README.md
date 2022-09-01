@@ -1,20 +1,13 @@
-# Accord.NET Framework
+# CANTLC
 
-This project is currently archived. Please fork the project into your own GitHub account if you would like to continue its development.
+Quantification of cannabinoids with computational assessment of natural products thin-layer chromatography (canTLC)
 
-# Archiving
+A. Dabdoub*, Land Grant Program, Central State University, Wilberforce, OH 45384; C. Schluttenhofer, Agriculture Research Development Program, Central State University, Wilberforce, OH 45384
 
-After 14~15 years of development, the Accord.NET project has finally been archived. I would like to send a big thank you to everyone who has ever comitted, dedicated, or otherwise devoted their time and effort into making this repository better every day. What had started as a project to store knowledge in the form of algorithms and implementations had grown way beyond my expectations since I first joined university and started working on research ~15 years ago.
+For the last 100 years Cannabis sativa has been classified depending on whos growing it, the purpose and the views of those in power.In recent years since the legalization of Hemp, Measuring THC and other compounds within the plant are necessary to separate it from a legal and non legal plant. One Testing method used to detect cannabinoids like THC and CBD and keep hemp farmers in compliance is thin-layer chromatography (TLC). A major challenge with TLC has been the human interpretation of these testing results. Recent work using Artificial Intelligence and Computers has substantially improved the testing ability of TLC. This work evaluates the use of Computer Image Processing and Machine learning on TLC for the detection of chemicals, creates a standard for the range of colors in these test, and the detection of chemical cannabis compounds. Standard testing methods and equipment can have a equipment cost starting at $35,000, creating a cost to entry barrier for the scientific community, farmers and Researchers. There is also problems with farmers needing to use copious amounts of product which could be saved if they had a way to test themselves.  This Problem led to the creation of an opensource software developed by my professor and I. The application, computational assessment of natural products TLC (canTLC), determines color value, color intensity, and size of spots based on custom and free-to-use software. To make sure it was working and accurate, known concentrations were used to devise a standard curve for quantification of spots based on intensity and size. Unknown samples analyzed with canTLC were comparable with the standards in testing these chemical compounds. Observations indicate standardization of human and digital systems are needed to further fine-tune the methodology. The in-house software with an open source application is available for public download.
 
-In the meantime, many things have happened, and the ML landscape had also greatly evolved since then.
-
-However, I pledge you to absolutely not interpret the archiving of this project as a loss. The main goal of this project since day 1 was to crystalize the ML knowledge available at the time in the form of source code and store it under a number of compatible free software licenses. As such, if you would like to, *do not feel afraid of copy and pasting portions of this project into your own implementations*. If I (Cesar De Souza) am the solely implementor of any of the classes you would like to port, I hereby grant you an irrevocable license to do so. If I am not, and the current license of the file you would like to port does not suit your needs, I can help you contact their original developers to help you with the transition.
-
-<pre>
-"We reject kings, presidents and voting.  We
-   believe in rough consensus and running code"
-   -- David Clark
-</pre>
+Topic Area: Plant Health and Production and Plant Products
+currently cant work on this, would love some help. 
 
 All this said. This has been an amazing ride.
 
